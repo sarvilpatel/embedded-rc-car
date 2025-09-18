@@ -56,6 +56,14 @@ An Arduino Uno–based RC car project featuring:
 ---
 
 ## 📂 File Structure
+## 📂 File Structure
+
+embedded-rc-car/  
+├── src/  
+│   └── main.ino   # Arduino sketch  
+├── LICENSE        # MIT License  
+└── README.md      # Project documentation  
+
 
 ---
 
